@@ -1,0 +1,4 @@
+# keeps sticking at 5.3 which breaks hinting and syntax checking
+# this forces it
+eclipse.preferences.version=1
+phpVersion=php5.4
